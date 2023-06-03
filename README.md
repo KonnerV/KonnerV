@@ -1,22 +1,16 @@
 
 ## KonnerV
-Hello!
-I'm @KonnerV and I am a young programmer who enjoys programming in their spare time.
-I mostly program in Python, Java, Kotlin, C, C++, Rust and JavaScript.
-I started off with Python and later grew into using other programming languages over time aswell as the one I started with.
+Greetings!
+I'm @KonnerV and I am a young programmer of which enjoys programming in their spare time.
+I use a plethora of languages with the main ones being: C/C++, Zig, C#, Java and Python.
+I mainly enjoy tinkering with Operating System development and other random stuff.
 
-## Skills
+## Skills and Programming Languages
+<img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"/> C
+<img width="15" src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg"/> C++
+<img width="15" src="https://commons.wikimedia.org/wiki/File:Zig_logo_2020.svg"/> Zig
+<img width="15" src="https://commons.wikimedia.org/wiki/File:C_Sharp_wordmark.svg"/> C#
+<img width="15" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png"/> Java
+<img width="15" src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg"/> Python
 
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
 
-<img width="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" /> Java
-
-<img width="20" src="https://kotlinlang.org/docs/images/kotlin-logo.png" /> Kotlin
-
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" /> C
-
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" /> HTML
-
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fcss31600.png&f=1&nofb=1" /> CSS
-
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
