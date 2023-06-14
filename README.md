@@ -2,7 +2,7 @@
 ## KonnerV
 Greetings!
 I'm @KonnerV and I am a young programmer of which enjoys programming in their spare time.
-I use a plethora of languages with the main ones being: C/C++, Zig, C#, Java and Python.
+I use a plethora of languages with the main ones being: C/C++, C#, Java and Python.
 I mainly enjoy tinkering with Operating System development and other random stuff.
 
 ## Skills and Programming Languages
