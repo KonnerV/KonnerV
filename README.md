@@ -1,9 +1,9 @@
-
-## KonnerV
+# KonnerV
 Greetings!
-I'm @KonnerV and I am a young programmer of which enjoys programming in their spare time.
-I use a plethora of languages with the main ones being: C/C++, C#, Java and Python.
-I mainly enjoy tinkering with Operating System development and other random stuff.
+My name is [KonnerV](https://github.com/KonnerV), a young, aspiring and enthusiastic programmer who loves programming in their spare time.
+I profoundly relish using a meticulous array of tools and languages. This includes the likes of: C, C++, C#, Java and Python just to mention a few.
+
+Withal, I have a powerful predisposition to discover, explore and tinker with the vast complexity of Operating System Development and the miscellaneous topics that come with it.
 
 ## Skills and Programming Languages
 <img width="15" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/> C
@@ -16,3 +16,10 @@ I mainly enjoy tinkering with Operating System development and other random stuf
 
 <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> Python
 
+## Website && Other information
+You can check out my official [website](https://zaerite.co.uk) where I blog and hold all the newsest news and updates on ongoing projects along with some upcoming ones too!
+
+## Current ongoing projects
+
+- [Rmlogs](https://github.com/KonnerV/Rmlogs)
+- [Kvpkg](https://github.com/KonnerV/Kvpkg)
