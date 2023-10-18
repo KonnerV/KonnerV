@@ -21,6 +21,6 @@ You can check out my official [website](https://zaerite.co.uk) where I blog and 
 
 ## Current ongoing projects
 
-- [Kv-OS](https://github.com/KonnerV/KVOS)
+- [Zaeros](https://github.com/KonnerV/Zaeros)
 - [Rmlogs](https://github.com/KonnerV/Rmlogs)
 - [Kvpkg](https://github.com/KonnerV/Kvpkg)
