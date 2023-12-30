@@ -28,4 +28,3 @@ In addition you can join my [discord](https://discord.gg/WSx336WCCe) whee you ca
 
 - [Zaeros](https://github.com/KonnerV/Zaeros)
 - [Rmlogs](https://github.com/KonnerV/Rmlogs)
-- [Kvpkg](https://github.com/KonnerV/Kvpkg)
