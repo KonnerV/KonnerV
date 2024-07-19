@@ -20,6 +20,11 @@ Withal, I have a powerful predisposition to discover, explore and tinker with th
 
 <img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> Python
 
+## Statistics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonnerV&theme=dracula&show_icons=true&hide_border=false&layout=compact">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KonnerV&theme=dracula&show_icons=true&hide_border=false&count_private=true">
+
 ## Website && Other information
 You can check out my official [website](https://zaerite.co.uk) where I blog and hold all the newsest news and updates on ongoing projects along with some upcoming ones too!
 In addition you can join my [discord](https://discord.gg/WSx336WCCe) whee you can have access to my community and early updates and even test my latest updates for all of my projects.
